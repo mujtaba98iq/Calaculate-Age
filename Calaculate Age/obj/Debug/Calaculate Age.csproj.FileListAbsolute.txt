@@ -1,0 +1,12 @@
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\bin\Debug\Calaculate Age.exe.config
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\bin\Debug\Calaculate Age.exe
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\bin\Debug\Calaculate Age.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.csproj.SuggestedBindingRedirects.cache
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate_Age.Form1.resources
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate_Age.Properties.Resources.resources
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.csproj.GenerateResource.cache
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.exe
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate Age.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Calaculate Age\obj\Debug\Calaculate_Age.frmMainForm.resources
